@@ -104,4 +104,3 @@ I'm a passionate Software Engineer with a Master's degree in Information Systems
 - 🌐 Portfolio: https://www.subhashmedarametla.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/subhashm5
 - ✉️ Email: subhashaj05@gmail.com
-- 📞 Phone: +1 (314) 320-9964
