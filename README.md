@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-AI Application Developer & Software developer with 5+ years across Telecom (T-Mobile), Banking, and e-commerce work at C2N IT Services. Proficient in React, Python and Java, with expertise in building responsive, user-focused frontend applications, plus backend experience in Node.js and Java/Spring Boot to build and update REST APIs. 
+**AI Application Developer & Software developer with 5+** years across Telecom (T-Mobile), Banking, and e-commerce work at C2N IT Services. Proficient in React, Python and Java, with expertise in building responsive, user-focused frontend applications, plus backend experience in Node.js and Java/Spring Boot to build and update REST APIs. 
 Building web apps as well as reviewing and improving AI behavior and adding GenAI features like chat, search and agents on top of real customer data. Hands-on with OpenAI APIs, embeddings & RAG Skilled with cloud platforms AWS and GCP. Experienced with CI/CD pipelines and databases PostgreSQL and MongoDB. 
 During my recent Master’s, I focused on AI and built projects using OpenAI, embeddings and RAG to connect LLMs to real data safely. Passionate about using emerging technologies to solve complex problems, I continually seek opportunities to collaborate on cutting-edge projects that drive business growth and innovation.
 If you’re hiring or open to a quick chat, feel free to DM me.
