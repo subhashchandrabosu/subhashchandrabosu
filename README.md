@@ -102,14 +102,7 @@ If you’re hiring or open to a quick chat, feel free to DM me.
 - 🌐 **[My Portfolio](https://github.com/subhashchandrabosu/My-Portfolio)**  
   Personal portfolio built with React + Vite and deployed on Vercel: https://my-portfolio-nu-taupe-50.vercel.app :contentReference[oaicite:6]{index=6}
 
-- ☁️ **AWS → GCP Migration (Work Project)**  
-  Migrated services across clouds, optimized infra, and maintained reliability across environments.
 
-- 🚀 **CI/CD Automation (Work Project)**  
-  Built CI/CD workflows using Jenkins, Docker, Terraform, and cloud services for secure multi-env deployments.
-
-- 🤖 **GenAI / RAG Projects**  
-  Built practical GenAI apps using embeddings + retrieval to connect LLMs to real data safely.
 
 ## 📊 GitHub Stats
 
@@ -120,4 +113,4 @@ If you’re hiring or open to a quick chat, feel free to DM me.
 
 - 🌐 Portfolio: https://www.subhashmedarametla.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/subhashm5
-- ✉️ Email: subhashaj05@gmail.com
+- ✉️ Email: subhashaj3@gmail.com
